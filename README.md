@@ -1,4 +1,4 @@
-# My over-simplified downloader
+# Python packaging tutorial with an over-simplified downloader
 
 This is an over-simplified downloader package just to
 demonstrate python packaging.

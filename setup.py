@@ -12,9 +12,9 @@ setuptools.setup(
                 "demonstrate python module and tool packaging."),
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/liuzheng1990/python_packaging_demo",
     project_urls={
-        "Bug Tracker": "https://github.com/pypa/sampleproject/issues",
+        "Bug Tracker": "https://github.com/liuzheng1990/python_packaging_demo/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
